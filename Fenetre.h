@@ -32,8 +32,8 @@ private slots:
 private:
     Ui::Fenetre *ui;
     QString url="https://api.edamam.com/api/recipes/v2";
-    QString appid="40377f8e";
-    QString apikey="550c0ad7d50b9c864c855af0c0de9468";
+    QString appid="";
+    QString apikey="";
     //QVBoxLayout *Layout;
 };
 #endif // FENETRE_H
